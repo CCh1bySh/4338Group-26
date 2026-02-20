@@ -43,6 +43,7 @@
                     <RowDefinition />
                     <RowDefinition />
                     <RowDefinition />
+					
                     <RowDefinition />
                     <RowDefinition />
                     <RowDefinition />
@@ -51,6 +52,7 @@
                 </Grid.RowDefinitions>
 
                 <!-- Места для добавления элементов управления -->
+                <Button Content="Чибышев Павел 4338" Click="Button_Click" Grid.Row="20"/>
 
                 <!---->
 
